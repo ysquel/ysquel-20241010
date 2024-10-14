@@ -1,0 +1,16 @@
+/* crear un bloque gris */
+
+
+{
+      background-color: rgba (149,189,202.1);
+      width: 640px;
+      height: 430px;
+      border: 15px solid rgb(230, 12, 211);
+      /*crear el rectangulo redondeado */
+    }#cuadrado blanco {
+      border-radius: 30px;
+      background: rgba(254,254,254,1);
+      width: 585px;
+      height: 176px; 
+      top: 475px;
+      left: 428;
